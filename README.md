@@ -53,7 +53,7 @@ Each project is stored in its own directory.
 
 Basic setup example:
 
-git clone https://github.com/yourusername/bot-collection.git
+git clone https://github.com/muratmustafaciritci/bot-collection.git
 cd project-folder
 npm install
 # or
